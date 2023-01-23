@@ -8,3 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Versión inicial de código.
 
+#Comentario de ejemplo para registrar un cambio en el CHANGELOG y hacer el add, commit y push respecticamente
