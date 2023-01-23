@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Versión inicial de código.
 
 #Comentario de ejemplo para registrar un cambio en el CHANGELOG y hacer el add, commit y push respecticamente
+#Comentario2 desde rama develop
